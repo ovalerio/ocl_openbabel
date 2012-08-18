@@ -1,0 +1,10 @@
+/CMakeFiles
+/cmake_install.cmake
+/CTestTestfile.cmake
+/Makefile
+/pytest_babel.cmake
+/pytest_fastsearch.cmake
+/pytest_kekule.cmake
+/pytest_smartssym.cmake
+/pytest_sym.cmake
+/pytest_unique.cmake

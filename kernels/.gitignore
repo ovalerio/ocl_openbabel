@@ -1,0 +1,5 @@
+/bin
+/CMakeFiles
+/kernels
+/cmake_install.cmake
+/Makefile
